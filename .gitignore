@@ -1,0 +1,8 @@
+# 忽略 所有 .txt文件
+*.txt
+
+# 忽略 test文件夹下所有的文件
+test/
+
+# 忽略 about.html
+about.html
